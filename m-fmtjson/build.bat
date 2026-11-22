@@ -1,0 +1,1 @@
+go build -o ../tools/m-fmtjson.exe
